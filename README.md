@@ -1,4 +1,4 @@
-PogoComics
+Pogomics
 ==========
 
 ## Comic Viewer for Pogoplug
